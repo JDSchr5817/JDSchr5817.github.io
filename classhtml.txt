@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+
+<body>
+
+  <h1>Your Name</h1>
+
+  <img src="https://jakeschreiber.it/200x200" alt="Jake Schreiber">
+
+  <p>I am Jake.</p>
+  <p>I am making an html.</p>
+
+  <ul>
+    <li><strong>Email:</strong> <a href="#">jacobschreiber1997@gmail.com</a></li>
+    <li><strong>Github:</strong> <a href="#">JDSchr5817</a></li>
+    <li><strong>Twitter:</strong> <a href="#">coming soon</a></li>
+  </ul>
+
+  <table>
+    <tr>
+      <th>Books</th>
+      <th>Movies</th>
+      <th>Games</th>
+    </tr>
+    <tr>
+      <td>Breakfast of Champions</td>
+      <td>Hot Fuzz</td>
+      <td>PubG</td>
+    </tr>
+    <tr>
+      <td>The Fountainhead</td>
+      <td>Kill Bill</td>
+      <td>Apex</td>
+    </tr>
+    <tr>
+      <td>Dracula</td>
+      <td>The Irishman</td>
+      <td>Gex</td>
+    </tr>
+  </table>
+
+  <!-- Bonus link to last class page -->
+  <a href="../../../../1/Activities/04-Stu_MyFirst_HTML/Solved/my-first-bonus.html">My First HTML Bonus</a>
+
+</body>
+
+</html>
